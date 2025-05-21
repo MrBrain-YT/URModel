@@ -1,4 +1,4 @@
-<p align="center"><img src='./images/urmodel.png'></img></p>
+<p align="center"><img src='./images/URModel.png'></img></p>
 
 # Информация
 
